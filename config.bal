@@ -1,0 +1,11 @@
+configurable string ftpHost = ?;
+configurable int ftpPort = ?;
+configurable string ftpUsername = ?;
+configurable string ftpPassword = ?;
+configurable string ftpInvoiceLocation = ?;
+configurable decimal ftpPollingInterval = ?;
+configurable string ftpFilePattern = ?;
+configurable string dbHost = ?;
+configurable int dbPort = ?;
+configurable string dbUsername = ?;
+configurable string dbPassword = ?;

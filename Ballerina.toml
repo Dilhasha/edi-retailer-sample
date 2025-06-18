@@ -1,0 +1,4 @@
+[package]
+org = "dilhasha"
+name = "retailer_sample"
+version = "0.1.0"
